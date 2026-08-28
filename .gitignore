@@ -1,0 +1,12 @@
+# Carpeta de fotos fuente del fotógrafo (no se publica — ~1 GB)
+entrega preboda 26 de set/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / misc
+.vscode/
+*.suo
+*.user
